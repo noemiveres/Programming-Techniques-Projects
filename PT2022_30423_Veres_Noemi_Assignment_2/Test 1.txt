@@ -1,0 +1,165 @@
+Time 0
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 1
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 2
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 3
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 4
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 5
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 6
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 7
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 8
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 9
+Waiting clients: (3,10,2); (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 10
+Waiting clients: (2,15,4); (0,28,2); (1,30,2); 
+Queue0: (3,10,2); 
+Queue1: 
+
+Time 11
+Waiting clients: (2,15,4); (0,28,2); (1,30,2); 
+Queue0: (3,10,1); 
+Queue1: 
+
+Time 12
+Waiting clients: (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 13
+Waiting clients: (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 14
+Waiting clients: (2,15,4); (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 15
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: (2,15,4); 
+Queue1: 
+
+Time 16
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: (2,15,3); 
+Queue1: 
+
+Time 17
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: (2,15,2); 
+Queue1: 
+
+Time 18
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: (2,15,1); 
+Queue1: 
+
+Time 19
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 20
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 21
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 22
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 23
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 24
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 25
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 26
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 27
+Waiting clients: (0,28,2); (1,30,2); 
+Queue0: 
+Queue1: 
+
+Time 28
+Waiting clients: (1,30,2); 
+Queue0: (0,28,2); 
+Queue1: 
+
+Time 29
+Waiting clients: (1,30,2); 
+Queue0: (0,28,1); 
+Queue1: 
+
+Time 30
+Waiting clients: 
+Queue0: (1,30,2); 
+Queue1: 
+
+Time 31
+Waiting clients: 
+Queue0: (1,30,1); 
+Queue1: 
+
+Time 32
+Waiting clients: 
+Queue0: 
+Queue1: 
+
