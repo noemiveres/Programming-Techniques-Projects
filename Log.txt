@@ -1,5 +1,0 @@
-Client: test test
-Product name: test
-Quantity: 40
-Unit price: 4
-Total: 160
